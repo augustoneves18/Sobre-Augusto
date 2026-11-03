@@ -1,32 +1,39 @@
-# Augusto Neves
-### Estudante de Técnico em Informática | Desenvolvedor em formação
+# Portfólio — Augusto Neves
 
-Sou estudante do curso Técnico em Informática e formado em Programação de Jogos Digitais. Tenho interesse em tecnologia, desenvolvimento de software e resolução de problemas por meio da programação.
+Site de portfólio acadêmico e profissional desenvolvido com HTML, CSS e JavaScript.
 
-Ao longo da minha formação, desenvolvi conhecimentos em linguagens de programação, desenvolvimento web, banco de dados, inteligência artificial e infraestrutura de redes.
+## Estrutura
 
-Tenho facilidade de comunicação, gosto de aprender coisas novas e busco constantemente aprimorar meus conhecimentos, especialmente em lógica de programação e desenvolvimento de projetos.
+```text
+portfolio-augusto-neves/
+├── index.html
+├── README.md
+├── css/
+│   └── style.css
+└── js/
+    └── script.js
+```
 
-Atualmente, meu objetivo é construir um portfólio acadêmico e profissional, compartilhar meus projetos e documentar minha evolução na área de tecnologia.
+## Como visualizar
 
-**Tecnologias e conhecimentos:**
-- C#
-- Python
-- HTML, CSS e JavaScript
-- MySQL
-- Desenvolvimento de projetos com Inteligência Artificial
-- Informática básica
-- Crimpagem de cabos de rede
-- Microsoft Word, Excel e PowerPoint (básico)
-- Inglês básico e espanhol básico
+1. Baixe ou clone este repositório.
+2. Abra o arquivo `index.html` no navegador.
+3. Para desenvolver, você pode abrir a pasta no Visual Studio Code.
 
-**Formação:**
-- Estudante do curso Técnico em Informática.
-- Formação em Programação de Jogos Digitais.
+## Personalizações importantes antes de publicar
 
-**Competências pessoais:**
-- Comunicação.
-- Curiosidade e aprendizado contínuo.
-- Interesse em lógica de programação.
-- Criatividade e resolução de problemas.
-- Interesse em desenvolvimento de projetos.
+- Atualize o link do LinkedIn no `index.html` para o endereço do seu perfil.
+- Troque `seuemail@exemplo.com` pelo seu e-mail profissional.
+- Adicione links diretos para seus projetos reais no GitHub.
+- Atualize a seção de formação com o nome da instituição e datas, se desejar.
+- Os cards de projetos são exemplos/ espaços reservados: substitua-os por trabalhos que você realmente desenvolveu.
+
+## Publicar com GitHub Pages
+
+1. Envie os arquivos para um repositório público no GitHub.
+2. Abra **Settings → Pages**.
+3. Em **Build and deployment**, selecione **Deploy from a branch**.
+4. Escolha a branch `main` e a pasta `/ (root)`.
+5. Salve e aguarde o GitHub Pages publicar o site.
+
+Desenvolvido por Augusto Neves.
