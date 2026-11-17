@@ -1,4 +1,40 @@
 # Portfólio — Augusto Neves
+# Augusto Neves | Portfólio
+
+Olá! Meu nome é **Augusto Neves**. Sou estudante de Técnico em Informática e tenho formação em Programação de Jogos Digitais.
+
+Tenho interesse em desenvolvimento de software, lógica de programação, desenvolvimento web e inteligência artificial. Gosto de aprender novas tecnologias, praticar por meio de projetos e desenvolver minhas habilidades.
+
+## Tecnologias e conhecimentos
+
+- C# e Python
+- HTML, CSS e JavaScript
+- MySQL
+- Informática e redes
+
+## Projeto em destaque
+
+### Sistema de Atendimento
+Projeto disponível no GitHub: [https://github.com/augustoneves18/Sistemadeatendimento](https://github.com/augustoneves18/Sistemadeatendimento).
+
+## Entre em contato
+
+- **E-mail:** augustowkerleynevesangelo@outlook.com.br
+- **LinkedIn:** [https://www.linkedin.com/in/augusto-neves-1950b3448/](https://www.linkedin.com/in/augusto-neves-1950b3448/)
+- **GitHub:** [https://github.com/augustoneves18](https://github.com/augustoneves18)
+
+## Sobre este portfólio
+
+Este site foi desenvolvido com HTML, CSS e JavaScript para apresentar minha trajetória, meus conhecimentos, minha formação e meus projetos.
+
+## Como visualizar
+
+1. Baixe ou clone este repositório.
+2. Abra o arquivo `index.html` em um navegador.
+
+---
+
+Desenvolvido por **Augusto Neves**.
 
 Site de portfólio acadêmico e profissional desenvolvido com HTML, CSS e JavaScript.
 
